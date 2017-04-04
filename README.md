@@ -1,6 +1,6 @@
-# latex-styles
+# Style files for LaTeX output
 
-LaTeX styles necessary for doing homework assignments at the computer lab of Kobe University.
+LaTeX styles necessary for doing homework assignments at the computer lab of Kobe University. *If you work with your own computer, you don't have to do this setup*.
 
 This repository includes copies of
 
